@@ -1,0 +1,13 @@
+.experience-page--tables .table-page-header {
+  padding-bottom: 0;
+  border-bottom: 0;
+}
+
+.experience-page--tables .game-tables-grid--single {
+  padding-top: clamp(20px, 2.4vw, 32px);
+}
+
+.experience-page--tables .game-table-panel--overview,
+.experience-page--tables .game-table-panel--overview .game-list-table thead {
+  border-top: 0;
+}
